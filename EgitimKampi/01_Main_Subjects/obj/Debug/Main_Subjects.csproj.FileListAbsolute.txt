@@ -1,0 +1,7 @@
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\01_Main_Subjects\bin\Debug\01_Main_Subjects.exe.config
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\01_Main_Subjects\bin\Debug\01_Main_Subjects.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\01_Main_Subjects\bin\Debug\01_Main_Subjects.pdb
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\01_Main_Subjects\obj\Debug\Main_Subjects.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\01_Main_Subjects\obj\Debug\Main_Subjects.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\01_Main_Subjects\obj\Debug\01_Main_Subjects.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\01_Main_Subjects\obj\Debug\01_Main_Subjects.pdb
