@@ -1,0 +1,7 @@
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\ForeachLoop\bin\Debug\ForeachLoop.exe.config
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\ForeachLoop\bin\Debug\ForeachLoop.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\ForeachLoop\bin\Debug\ForeachLoop.pdb
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.pdb

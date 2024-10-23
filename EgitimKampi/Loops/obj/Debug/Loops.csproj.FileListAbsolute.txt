@@ -1,0 +1,7 @@
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Loops\bin\Debug\Loops.exe.config
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Loops\bin\Debug\Loops.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Loops\bin\Debug\Loops.pdb
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Loops\obj\Debug\Loops.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Loops\obj\Debug\Loops.pdb

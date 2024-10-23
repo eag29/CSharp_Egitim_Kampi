@@ -1,0 +1,7 @@
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Making_Decision\bin\Debug\Making_Decision.exe.config
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Making_Decision\bin\Debug\Making_Decision.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Making_Decision\bin\Debug\Making_Decision.pdb
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Making_Decision\obj\Debug\Making_Decision.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Making_Decision\obj\Debug\Making_Decision.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Making_Decision\obj\Debug\Making_Decision.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Making_Decision\obj\Debug\Making_Decision.pdb

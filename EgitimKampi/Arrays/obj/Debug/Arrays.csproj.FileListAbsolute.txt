@@ -1,0 +1,7 @@
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Arrays\bin\Debug\Arrays.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Arrays\obj\Debug\Arrays.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\Arrays\obj\Debug\Arrays.pdb

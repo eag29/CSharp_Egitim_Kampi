@@ -1,0 +1,7 @@
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\LoopsWihtStars\bin\Debug\LoopsWihtStars.exe.config
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\LoopsWihtStars\bin\Debug\LoopsWihtStars.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\LoopsWihtStars\bin\Debug\LoopsWihtStars.pdb
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\LoopsWihtStars\obj\Debug\LoopsWihtStars.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\LoopsWihtStars\obj\Debug\LoopsWihtStars.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\LoopsWihtStars\obj\Debug\LoopsWihtStars.exe
+C:\Users\Emir Ali\Documents\Projeler\C#EgitimKampi\EgitimKampi\LoopsWihtStars\obj\Debug\LoopsWihtStars.pdb
