@@ -50,5 +50,10 @@ Bu projede geri değer döndüren ve döndürmeyen metotları öğrenek metot ya
 Bu projede SQL üzerinde tablo oluşurp DML komutlarını kullanmayı öğrendim. SQL bağlantı sınıfını vererek tablo üzerindeki veriyi console ekranına getiren uygulama yazdım.
 
 
+:ghost: Proje 9: DatabaseProject!
+
+Bu projede crud işlemlerini öğrendim. Crate, Read, Update, Delete sorgularını kullanarak veri ekleme, silme, güncelleme ve listeleme işlemlerini gerçekleştirdim.
+
+
 
 :dart: Bu projeler ile temel C# konularını öğrenmiş oldum. İlerleyen zamanlarda bu proje serisini devam ettirek bilgilerimi dahada geliştireceğim.
