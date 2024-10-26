@@ -45,9 +45,14 @@ Bu projede Foreach döngüsü ve List yapısını öğrendim ve bunları kullara
 Bu projede geri değer döndüren ve döndürmeyen metotları öğrenek metot yapısını kavramış oldum.
 
 
-:ghost: Proje 9: DatabaseProject!
+:ghost: Proje 9: Database Project!
 
 Bu projede SQL üzerinde tablo oluşurp DML komutlarını kullanmayı öğrendim. SQL bağlantı sınıfını vererek tablo üzerindeki veriyi console ekranına getiren uygulama yazdım.
+
+
+:ghost: Proje 10: Database Crud!
+
+Bu projede crud işlemlerini öğrendim. Crate, Read, Update, Delete sorgularını kullanarak veri ekleme, silme, güncelleme ve listeleme işlemlerini gerçekleştirdim.
 
 
 
